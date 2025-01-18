@@ -11,7 +11,7 @@ public class MyArraysImpl {
 	     numbers.insert(20);
 	     numbers.insert(30);
 	   
-	       // Extra element exceeding array size
+	       // Extra element exceeding array
 	     numbers.insert(50);
 	     numbers.insert(500);
 	       // Calling printArray() method
