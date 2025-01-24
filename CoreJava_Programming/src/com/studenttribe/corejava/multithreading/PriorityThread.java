@@ -3,7 +3,7 @@ package com.studenttribe.corejava.multithreading;
 public class PriorityThread extends Thread{
 	public void run() {
 		for (int i = 0 ; i<=5; i++)
-			System.out.println(Thread.currentThread().getName() + " " +Thread.currentThread().getPriority());
+			System.out.println(Thread.currentThread().getPriority());
 	}
 	public static void main(String[] args) {
 		PriorityThread t1 = new PriorityThread();

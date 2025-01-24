@@ -1,4 +1,4 @@
-package com.studenttribe.corejava.multithreading;
+ package com.studenttribe.corejava.multithreading;
 //Sleep method using
 
 public class MyThreadDemo4 extends Thread {
@@ -7,7 +7,7 @@ public class MyThreadDemo4 extends Thread {
 			System.out.println(Thread.currentThread().getName()+ "is running "+i);
 		
 		try {
-			Thread.sleep(500);//500ms 
+			Thread.sleep(5000 );//500ms 
 		}
 		catch(Exception e) {
 			System.out.println(e);
