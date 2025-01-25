@@ -1,5 +1,5 @@
 //Factorial of the numbers
-package Loops;
+package com.studenttribe.corejava.nestedloops;
 
 import java.util.Scanner;
 

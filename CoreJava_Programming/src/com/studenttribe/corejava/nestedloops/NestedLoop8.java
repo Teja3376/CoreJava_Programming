@@ -1,4 +1,4 @@
-package Loops;
+package com.studenttribe.corejava.nestedloops;
 
 public class NestedLoop8 {
 

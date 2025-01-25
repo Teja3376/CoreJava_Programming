@@ -1,5 +1,5 @@
 //Nested Loops5
-package Loops;
+package com.studenttribe.corejava.nestedloops;
 
 public class NestedLoop5 {
 
