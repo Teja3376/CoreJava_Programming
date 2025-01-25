@@ -1,4 +1,4 @@
-package core.studenttribe.corejava.strings;
+package com.studenttribe.corejava.strings;
 /*
  append(): adds a string to the end of the current string
 - insert(): adds a string at a specific position in the current string

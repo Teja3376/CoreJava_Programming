@@ -1,4 +1,4 @@
-package core.studenttribe.corejava.strings;
+package com.studenttribe.corejava.strings;
 
 public final class PersonImmutable {
 	private final String name ;
