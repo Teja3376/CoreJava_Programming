@@ -1,4 +1,4 @@
-package com.studenttridee.corejava.oops;
+package com.studenttribe.corejava.oops;
 //Class definition
 class Animal {
 // Fields (Attributes)

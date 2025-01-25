@@ -1,4 +1,4 @@
-package com.studenttridee.corejava.oops;
+package com.studenttribe.corejava.oops;
 public class MethodFlows {
 	 //1.	No Parameters with No Return Values
 	public void  myData() {

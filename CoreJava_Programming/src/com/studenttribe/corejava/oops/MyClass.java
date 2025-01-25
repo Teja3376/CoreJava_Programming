@@ -1,5 +1,5 @@
 //Inheritance example
-package com.studenttridee.corejava.oops;
+package com.studenttribe.corejava.oops;
 
 public class MyClass extends Calculation2 { // Reused the class from same package using 'extends'
 	

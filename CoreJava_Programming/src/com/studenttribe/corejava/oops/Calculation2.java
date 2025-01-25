@@ -1,5 +1,5 @@
 //Encapsulation example
-package com.studenttridee.corejava.oops;
+package com.studenttribe.corejava.oops;
 
 public class Calculation2 {
 	int a=100,b=20,c;

@@ -1,4 +1,4 @@
-package com.studenttridee.corejava.oops;
+package com.studenttribe.corejava.oops;
 
 public class Calculation {
 	int a=10,b=20,c;
