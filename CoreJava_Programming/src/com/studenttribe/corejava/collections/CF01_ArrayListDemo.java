@@ -1,5 +1,6 @@
 package com.studenttribe.corejava.collections;
 //Collections
+//Collection is a frame work has implements the classes of their interfaces
 import java.util.ArrayList;
 public class CF01_ArrayListDemo {
 	public static void main(String[] args) {
