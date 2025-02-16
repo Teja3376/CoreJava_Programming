@@ -2,8 +2,8 @@ package com.studenttribe.corejava.logicalprograms;
 
 public class union {
 	public static void main(String[] args) {
-		int a[] = { 10, 20, 30, 40 };
-		int b[] = { 30, 40, 50, 60 };
+		int a[] = { 10,30,20,50,30};
+		int b[] = { 30, 40, 50, 60, 70 };
 		for (int i = 0; i < a.length; i++) {
 			System.out.println(a[i]);
 		}
@@ -15,7 +15,7 @@ public class union {
 				}
 			}
 			if (j == a.length) {
-				System.out.println(b[i]);
+				System.out.println(b[i]);  
 			}
 		}
 	}
